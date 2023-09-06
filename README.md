@@ -9,7 +9,7 @@ Karen Mastrogiacomo Antiqueira
 ## Sobre mim
 
 -  Estudante de Análise e Desenvolvimento de Sistemas na FIAP
--  Buscando uma carreira Back-End, preferencialmente em Java
+-  Buscando uma carreira Back-End
 
 ## Minhas Skills
 <p>
