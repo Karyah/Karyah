@@ -9,7 +9,7 @@ Karen Mastrogiacomo Antiqueira
 ## Sobre mim
 
 -  Formada em Análise e Desenvolvimento de Sistemas na FIAP
--  Buscando uma carreira Back-End
+
 
 ## Minhas Skills
 <p>
