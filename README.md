@@ -1,30 +1,46 @@
 # Karyah 🌙
 
-<a href="https://github.com/Karyah">
-     <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karyah&theme=transparent&hide_langs_below=1" />
-</a>
+
 
 Karen Mastrogiacomo Antiqueira
  
 ## Sobre mim
 
--  Formada em Análise e Desenvolvimento de Sistemas na FIAP
+-  Formada em Análise e Desenvolvimento de Sistemas, na FIAP
+-  Fazendo pós-graduação em Arquitetura e Desenvolvimento em Java, na FIAP
+
+## Repositórios com projetos em Java
+
+<a href="https://github.com/Karyah">
+     <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karyah&theme=transparent&hide_langs_below=1" />
+</a>
+
+* ### Projeto VollMed API
+     * API RESTful 
+     * Projeto realizado seguindo as aulas da formação da **Alura - Java e Spring Boot**
+     * Site que simula um ambiente hospitalar, onde pacientes e médicos são cadastrados, e consultas são agendadas.
+     * [Link do Repositório](https://github.com/Karyah/Alura/blob/master/BACKEND/SpringBoot/Resumo.md)
+     
+* ### Aluguel de Livros
+     * API Java     
+     * Projeto de um site de aluguel de livros, em que um usuário pode ver diversos livros disponíveis e alugá-los.
+     * Este projeto possui templates e utiliza Thymeleaf.
+     * [Link do Repositório](https://github.com/Karyah/Aluguel_Livros)
+
+* ### MHealth
+     * API Java
+     * Projeto realizado durante a faculdade, para simular um ambiente hospitalar em que pacientes internados podem fazer pedidos ou pedir ajudar via site, e tais requisições aparecem em um telão para enfermeiros.
+     * Este projeto possui templates e utiliza Thymeleaf.
+     * [Link do Repositório](https://github.com/Karyah/Global_Solution_DBE_2)     
+       
+* ### Projetos Java
+     *  Diversos projetos realizados durante a graduação, que abrangem conteúdos como:
+          * Persistência de dados utilizando Hibernate.
+          * Exercícios com tipos de dados de Enums e LocalDate.
+     * [Link do Repositório](https://github.com/Karyah/Projetos_Java/tree/main)
 
 
-## Minhas Skills
-<p>
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />  
-  <img width='40px'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
-<!--   <img width='40px' width='40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> -->
-</p>
 
    
 ## Entre em contato
