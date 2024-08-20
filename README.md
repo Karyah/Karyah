@@ -3,11 +3,8 @@
 
 
 Karen Mastrogiacomo Antiqueira
- 
-## Sobre mim
-
--  Formada em Análise e Desenvolvimento de Sistemas, na FIAP
--  Fazendo pós-graduação em Arquitetura e Desenvolvimento em Java, na FIAP
+* Formada em Análise e Desenvolvimento de Sistemas, na FIAP
+* Cursando pós-graduação em Arquitetura e Desenvolvimento em Java, na FIAP
 
 ## Repositórios com projetos em Java
 
