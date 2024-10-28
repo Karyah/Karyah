@@ -17,7 +17,11 @@ Karen Mastrogiacomo Antiqueira
      * Projeto realizado seguindo as aulas da formação da **Alura - Java e Spring Boot**
      * Site que simula um ambiente hospitalar, onde pacientes e médicos são cadastrados, e consultas são agendadas.
      * [Link do Repositório](https://github.com/Karyah/Alura/blob/master/BACKEND/SpringBoot/Resumo.md)
-     
+
+* ### Repositório de projetos durante a Pós
+     * APIs em Java e conteúdo acompanhando as aulas da pós-graduação.
+     * [Link do Repositório](https://github.com/Karyah/Pos)
+       
 * ### Aluguel de Livros
      * API Java     
      * Projeto de um site de aluguel de livros, em que um usuário pode ver diversos livros disponíveis e alugá-los.
@@ -36,10 +40,6 @@ Karen Mastrogiacomo Antiqueira
           * Exercícios com tipos de dados de Enums e LocalDate.
      * [Link do Repositório](https://github.com/Karyah/Projetos_Java/tree/main)
 
-
-
-
-   
 ## Entre em contato
 
 <p>
