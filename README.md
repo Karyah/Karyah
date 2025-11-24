@@ -8,10 +8,6 @@ Karen Mastrogiacomo Antiqueira
 
 ## Repositórios com projetos em Java
 
-<a href="https://github.com/Karyah">
-     <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karyah&theme=transparent&hide_langs_below=1" />
-</a>
-
 * ### Sistema de gerenciamento de Pedidos
      * Nesse projeto realizado em grupo, fui responsável pela implementação dos microsserviços de Produto e Estoque para gerenciamento de pedidos, ambos implementados utilizando Clean Architecture. Além disso, realizei a implementação do docker-compose para rodar todos os microsserviços e ambientes necessários para rodar o projeto completo. Para rodá-lo, seguir o passo a passo no README do repositório: [Build com Docker Compose](https://github.com/Karyah/postech-docker-compose)
      * [Implementação do Microsserviço de Produto](https://github.com/Karyah/postech-msproduto)
